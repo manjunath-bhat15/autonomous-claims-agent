@@ -1,0 +1,32 @@
+Policy Number: POL-TP-334455
+Policyholder Name: Kavya Reddy
+Policy Effective Dates: 01/07/2025 - 30/06/2026
+
+Date of Loss: 18/02/2026
+Time of Loss: 06:45 PM
+Location of Incident: Chennai, Tamil Nadu
+
+Asset Type: Vehicle
+Asset ID: TN10ZX4567
+
+Claim Type: Property
+Estimated Damage Amount: 42000 INR
+Initial Estimate: 40000 INR
+
+Description of Incident:
+The insured vehicle collided with a parked car due to brake failure. The third-party vehicle sustained rear bumper and tail light damage.
+
+Claimant Name: Kavya Reddy
+Contact Details:
+Phone: 9123456780
+Email: kavya.reddy@email.com
+
+Third Parties Involved:
+Car Owner: Suresh Iyer
+Vehicle Number: TN07GH1122
+Contact: 9988776655
+
+Attachments:
+accident_scene.jpg
+third_party_damage.jpg
+mechanic_estimate.pdf

@@ -1,0 +1,31 @@
+Policy Number: POL-INJ-556677
+Policyholder Name: Manjunath Bhat
+Policy Effective Dates: 01/04/2025 - 31/03/2026
+
+Date of Loss: 12/09/2025
+Time of Loss: 10:00 AM
+Location of Incident: Bangalore, Karnataka
+
+Asset Type: Vehicle
+Asset ID: KA01MN2025
+
+Claim Type: Injury
+Estimated Damage Amount: 25000 INR
+Initial Estimate: 25000 INR
+
+Description of Incident:
+The insured vehicle was involved in a minor collision at a traffic signal. The driver sustained minor shoulder and neck injuries. First aid was provided and medical consultation was completed.
+
+Claimant Name: Manjunath Bhat
+Contact Details:
+Phone: 8105324597
+Email: manjunath.bhat@email.com
+
+Third Parties Involved:
+Driver of other vehicle: Rahul Sharma
+Vehicle Number: KA05XY7788
+
+Attachments:
+medical_report.pdf
+hospital_bill.pdf
+vehicle_damage.jpg
