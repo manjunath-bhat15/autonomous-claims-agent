@@ -216,7 +216,7 @@ Follow the steps below to run the project locally.
 Clone the project from GitHub:
 
 ``` bash
-git clone https://github.com/your-username/autonomous-claims-agent.git
+git clone https://github.com/manjunath-bhat15/autonomous-claims-agent.git
 ```
 
 Navigate into the project directory:
