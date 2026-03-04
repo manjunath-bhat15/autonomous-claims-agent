@@ -260,13 +260,19 @@ mvn clean install
 ### Run with a Single File
 
 ``` bash
-mvn exec:java --% -Dexec.args=test.txt
+mvn exec:java --% -Dexec.args=file path
 ```
 
 ### Run with Folder Input
 
 ``` bash
-mvn exec:java --% -Dexec.args=claims-folder
+mvn exec:java --% -Dexec.args=folder-path
+```
+
+### Example for single file
+
+``` bash
+mvn exec:java --% -Dexec.args=sample-claims/test.pdf
 ```
 
 ------------------------------------------------------------------------
